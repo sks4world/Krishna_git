@@ -5,6 +5,10 @@ In the second branch, add the name of the repo in the text file.
 
 Then merge all to the master branch
 
+<<<<<<< HEAD
 course name ISM7911 MIS Research Seminar II
 
 Second attempt
+=======
+Name of the repo (added in branch 2) is Krishna_git
+>>>>>>> branch2
