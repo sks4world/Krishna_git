@@ -1,0 +1,6 @@
+Hi
+Create 2 branches, in the first branch add the subject code for this course and
+
+In the second branch, add the name of the repo in the text file.
+
+Then merge all to the master branch
